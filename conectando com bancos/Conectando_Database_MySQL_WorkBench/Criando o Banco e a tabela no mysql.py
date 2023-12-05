@@ -1,7 +1,7 @@
 import mysql.connector as mys
 from mysql.connector import errorcode
 #$cbd = conecção banco de dados(cbd)
-cbd = mys.connect(user='root',password='@Jogos321',
+cbd = mys.connect(user='root',password='sua-senha',
                   host='localhost',)
 cursor = cbd.cursor(buffered=True)
 
