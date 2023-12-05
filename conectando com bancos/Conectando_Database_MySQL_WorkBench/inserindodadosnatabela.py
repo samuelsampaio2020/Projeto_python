@@ -1,7 +1,7 @@
 import mysql.connector as mys
 import json
 
-cnx = mys.connect(user='root',password='@Jogos321',
+cnx = mys.connect(user='root',password='sua-senha',
                   host='localhost',database='aplicativo')
 cursor = cnx.cursor()
 
