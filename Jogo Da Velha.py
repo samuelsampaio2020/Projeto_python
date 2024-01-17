@@ -3,7 +3,7 @@ listateste = [[0,0,0],
               [0,0,0]]
 
 #primeiro campo é a linha [Linha] e o segundo é a coluna [Linha][Coluna]!
-#a linha e o Campo Y e a coluna é o Campo X, como se fosse um grafico de reta 
+#a linha é o Campo Y e a coluna é o Campo X, como se fosse um grafico de reta 
 
 def verificando_X():
     #verificação diagonal
